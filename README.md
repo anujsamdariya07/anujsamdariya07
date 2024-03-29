@@ -6,8 +6,8 @@ I'm a B.Tech. student at Gyan Ganga Institute of Technology and Sciences, curren
 
 - 🎓 I'm currently in my 4th Semester pursuing B.Tech.
 - 💻 I'm passionate about Full Stack Web Development, AI, and Machine Learning.
-- 🌱 I've recently completed learning JavaScript and I'm now working on building small websites using HTML, CSS, and JavaScript.
-- 🔍 I'm proficient in C, C++, Java, and Python.
+- 🌱 I've recently completed learning React and I'm now working on building websites using React with Redux-toolkit / Context API for state management.
+- 🔍 I'm proficient in C, C++, Java, Javascript,  and Python.
 - 📧 You can reach out to me at [anujsamdariya07@gmail.com](mailto:anujsamdariya07@gmail.com).
 
 ## Get in Touch
