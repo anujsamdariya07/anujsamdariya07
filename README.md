@@ -12,7 +12,6 @@ I'm a B.Tech. student at Gyan Ganga Institute of Technology and Sciences, curren
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anuj-samdariya-569162254/)!
-Feel free to connect with me on [X](https://twitter.com/anujsamdariya07)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anuj-samdariya-569162254/) and [X](https://twitter.com/anujsamdariya07)!
 
 Looking forward to collaborating and learning together! 😄
