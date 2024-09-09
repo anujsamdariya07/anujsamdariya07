@@ -6,10 +6,10 @@ I'm a B.Tech. student at Gyan Ganga Institute of Technology and Sciences, curren
 
 - 🎓 I'm currently in my 4th Semester pursuing B.Tech.
 - 💻 I'm passionate about Full Stack Web Development, AI, and Machine Learning.
-- 🌱 I've recently completed learning Express JS and I'm now working on building full stack websites.
+- 🌱 I've recently completed learning Next JS and I'm now working on building full stack websites with it.
 - 🔍 I'm proficient in C, C++, Java, Javascript, and Python.
-- 🖼️ I also have experience in various JS libraries like React JS, Node JS, and Express JS.
-- ♎ I also have experience in various Python libraries like Pandas and NumPy.
+- 🖼️ I also have experience in various JS libraries like React JS, Node JS, Express JS, and Next JS .
+- ♎ I also have experience in various Python libraries like Pandas, NumPy, and matplotlib.
 - 📧 You can reach out to me at [anujsamdariya07@gmail.com](mailto:anujsamdariya07@gmail.com).
 
 ## Get in Touch
